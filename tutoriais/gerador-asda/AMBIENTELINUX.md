@@ -40,6 +40,7 @@ Instale o GWSL que se trata de um XServer que auxilia a executar aplicativos lin
 
 
 6 - Após instalar o git e clonar o repósitorio, antes de rodar o projeto execute o GWSL:
+
 <img src="imagens/gwsl.jpg" alt="XServer"/>
 
 7 - Defina na pasta do seu repositório a variável de ambiente $DISPLAY para acessar o GWSL:
